@@ -312,10 +312,10 @@
             }
         },
         currency: {
-            prefix: "$ ",
+            prefix: "R$ ",
             groupSeparator: ",",
             alias: "numeric",
-            placeholder: "0",
+            placeholder: "",
             autoGroup: !0,
             digits: 2,
             digitsOptional: !1,
