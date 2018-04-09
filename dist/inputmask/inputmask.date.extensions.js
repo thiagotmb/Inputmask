@@ -15,7 +15,7 @@
     return Inputmask.extendAliases({
         "dd/mm/yyyy": {
             mask: "1/2/y",
-            placeholder: "dd/mm/yyyy",
+            placeholder: "dd/mm/aaaa",
             regex: {
                 val1pre: new RegExp("[0-3]"),
                 val1: new RegExp("0[1-9]|[12][0-9]|3[01]"),
